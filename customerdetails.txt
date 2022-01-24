@@ -1,0 +1,5 @@
+M1;Bran Don;Brandon;brandonpassword;011-11019888;brandonnn3557@gmail.com;12,Jalan Air,Taman Api,83000 Batu Pahat,Johor
+M2;Lim Yi Er;Ryan;ryanpassword;012-7341234;ry4n321@hotmail.com;20,Jalan Otah 3,Taman Manis,80000 Johor Bahru,Johor
+M3;Rick Roll;Rick;rickpassword;016-2912345;rickr011@gmail.com;11,Jalan May,Taman Peta,41700 Puchong,Selangor
+M4;Jie Jie;Jessica;jessicapassword;011-12345678;je551c4@gmail.com;9,Jalan Kencana,Taman Kencana 50050 Kuala Lumpur
+M5;Felix Alexa;Felix;felixpassword;011-98765432;felixlim869@gmail.com;2,Jalan Meriah,Taman Meriah 50050 Kuala Lumpur

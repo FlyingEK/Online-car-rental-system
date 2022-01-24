@@ -1,0 +1,6 @@
+C001;RM 87;Perodua Myvi;white;available for rent
+C002;RM159;Toyota Hilux;silver;available for rent
+C003;RM300;Hyundai Grand Starex;black;rented out
+C005;RM113;Toyota Vios;black;available for rent
+C006;RM159;Toyota Hilux;Black;rented out
+C007;RM87;Perodua Myvi;Pink;rented out
